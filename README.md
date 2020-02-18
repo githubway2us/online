@@ -1,17 +1,20 @@
-|    4      |      6     |
-| --------- | ---------- |
-|    3      |        0   |
-|   เนื้อหา   |    เนื้อหา   |
+insert your `code` here
 
----
+or insert your ```code``` here
 
-|หัวข้อ|หัวข้อ|
--|-
-เนื้อหา|เนื้อหา
+```
+code here
+```
 
----
+Javascript codeb lock
 
-| หัวเรื่องแรก | หัวเรื่องที่สอง |  หัวเรื่องสาม |
-| :-------- | :--------: | ---------: |
-|   ชิดซ็าย   |   กึ่งกลาง   |    ชิดขวา   |
-|   ชิดซ็าย   |   กึ่งกลาง   |    ชิดขวา   |
+```js
+// or custom highlight language
+console.log("Hello")
+```
+
+Java code block
+
+```java
+System.out.println("Java highlight");
+```
